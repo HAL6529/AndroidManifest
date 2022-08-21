@@ -2,13 +2,11 @@
 <manifest>
 
   <remote  name="origin"
-           fetch="git://hogehoge.com/HogehogeProject"/> 
+           fetch="git://HAL6529/WeissSchwarz"/> 
 
   <default revision="master"
            remote="origin" />
 
   <project path="project1"
-           name="project1"/>
-  <project path="project2"
-           name="project2"/>
+           name="git@github.com:HAL6529/WeissSchwarz.git"/>
 </manifest>
